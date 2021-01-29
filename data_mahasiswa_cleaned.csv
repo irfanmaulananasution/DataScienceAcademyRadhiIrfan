@@ -1,0 +1,440 @@
+Jenis Kelamin,IPK,Semester,Tempat Tinggal,Jarak dari rumah ke kampus (kalau PP) dalam jarak kilometer (km),Penghasilan Orang Tua,Apakah Anda kuliah sambil bekerja?,Apakah Anda mengikuti organisasi?,Pendapatan tiap bulan (termasuk uang saku dari orang tua)
+Pria,3.93,5,kos,0.0,8-10 juta,Ya,Ya,3000000
+Wanita,2.5,3,pp rumah,5.1,>10 juta,Tidak,Tidak,1000000
+Pria,3.53,5,pp rumah,18.0,3-5 juta,Ya,Ya,2100000
+Pria,3.95,2,kos,0.0,2-3 juta,Tidak,Ya,3000000
+Wanita,2.95,3,pp rumah,7.0,5-8 juta,Tidak,Ya,1550000
+Pria,2.73,3,pp rumah,14.0,>10 juta,Ya,Tidak,1000000
+Pria,3.45,7,pp rumah,39.0,5-8 juta,Tidak,Ya,750000
+Pria,3.17,7,pp rumah,3.5,3-5 juta,Tidak,Ya,600000
+Wanita,3.11,3,kos,0.0,5-8 juta,Tidak,Tidak,1500000
+Wanita,3.04,3,pp rumah,8.8,5-8 juta,Ya,Tidak,2000000
+Wanita,2.9,3,pp rumah,15.0,3-5 juta,Tidak,Ya,600000
+Wanita,2.95,3,pp rumah,16.0,2-3 juta,Ya,Ya,1200000
+Wanita,2.85,7,pp rumah,3.0,2-3 juta,Ya,Ya,800000
+Wanita,3.02,3,pp rumah,15.0,2-3 juta,Tidak,Tidak,1500000
+Pria,2.84,7,pp rumah,23.0,8-10 juta,Tidak,Ya,500000
+Wanita,2.5,3,pp rumah,7.0,3-5 juta,Ya,Tidak,1000000
+Wanita,2.64,3,kos,0.0,3-5 juta,Tidak,Tidak,800000
+Wanita,3.0,3,kos,0.0,2-3 juta,Tidak,Ya,250000
+Pria,2.92,7,kos,0.0,2-3 juta,Tidak,Tidak,800000
+Pria,2.98,3,kos,0.0,3-5 juta,Tidak,Ya,2000000
+Pria,2.91,3,pp rumah,15.0,2-3 juta,Tidak,Ya,50000
+Pria,2.87,3,kos,0.0,5-8 juta,Tidak,Ya,1500000
+Wanita,3.23,7,pp rumah,33.0,2-3 juta,Ya,Ya,2000000
+Pria,2.72,7,kos,0.0,2-3 juta,Tidak,Tidak,1600000
+Wanita,3.21,7,kos,0.0,5-8 juta,Ya,Ya,3000000
+Wanita,3.21,7,kos,0.0,5-8 juta,Ya,Ya,3000000
+Pria,3.8,3,pp rumah,9.2,5-8 juta,Tidak,Ya,1000000
+Pria,3.45,3,pp rumah,5.0,5-8 juta,Tidak,Ya,1500000
+Pria,3.82,3,kos,0.0,>10 juta,Ya,Ya,1500000
+Pria,2.73,3,pp rumah,17.0,3-5 juta,Tidak,Tidak,480000
+Wanita,3.85,3,pp rumah,30.0,>10 juta,Tidak,Ya,1000000
+Pria,3.4,3,kos,0.0,3-5 juta,Tidak,Ya,1200000
+Wanita,2.4,3,pp rumah,9.5,3-5 juta,Tidak,Tidak,500000
+Pria,3.73,3,pp rumah,25.0,2-3 juta,Tidak,Tidak,1000000
+Wanita,3.49,5,pp rumah,11.0,8-10 juta,Tidak,Ya,2000000
+Wanita,3.51,3,pp rumah,9.0,3-5 juta,Tidak,Ya,1000000
+Wanita,3.26,4,pp rumah,12.0,2-3 juta,Ya,Tidak,2000000
+Pria,3.5,5,kos,0.0,8-10 juta,Tidak,Ya,2000000
+Wanita,3.74,3,pp rumah,30.0,3-5 juta,Tidak,Ya,700000
+Pria,2.73,3,pp rumah,36.0,5-8 juta,Tidak,Ya,500000
+Wanita,3.73,3,kos,0.0,3-5 juta,Tidak,Ya,1600000
+Pria,3.0,5,kos,10.0,3-5 juta,Ya,Ya,500000
+Pria,3.68,3,pp rumah,5.0,5-8 juta,Tidak,Tidak,1000000
+Wanita,2.6,5,kos,0.0,>10 juta,Ya,Ya,3000000
+Pria,2.4,8,kos,0.0,2-3 juta,Ya,Ya,2000000
+Pria,3.25,3,kos,10.0,8-10 juta,Ya,Ya,500000
+Wanita,2.75,3,pp rumah,32.0,8-10 juta,Tidak,Ya,1200000
+Pria,2.91,3,kos,0.0,2-3 juta,Tidak,Tidak,1800000
+Pria,3.25,3,pp rumah,5.0,>10 juta,Tidak,Tidak,2000000
+Pria,3.46,3,pp rumah,5.0,2-3 juta,Tidak,Ya,200000
+Wanita,2.94,5,kos,0.0,2-3 juta,Ya,Ya,1600000
+Wanita,3.2,7,kos,0.0,5-8 juta,Tidak,Ya,2000000
+Pria,4.0,3,pp rumah,18.0,8-10 juta,Tidak,Tidak,1000000
+Pria,3.4,5,pp rumah,10.0,2-3 juta,Ya,Ya,1000000
+Wanita,2.75,5,kos,0.0,5-8 juta,Ya,Ya,1700000
+Wanita,3.83,3,pp rumah,15.0,8-10 juta,Tidak,Ya,2000000
+Wanita,3.97,3,pp rumah,4.0,5-8 juta,Tidak,Tidak,1500000
+Pria,2.4,5,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Pria,3.25,3,pp rumah,5.0,>10 juta,Tidak,Tidak,2000000
+Pria,3.45,3,pp rumah,6.4,2-3 juta,Tidak,Ya,600000
+Wanita,3.02,7,kos,0.0,2-3 juta,Ya,Ya,1000000
+Wanita,3.6,7,kos,0.0,5-8 juta,Ya,Ya,2000000
+Pria,3.18,3,pp rumah,26.0,2-3 juta,Tidak,Ya,1000000
+Wanita,2.98,5,pp rumah,11.0,3-5 juta,Ya,Ya,400000
+Pria,3.23,9,pp rumah,22.0,2-3 juta,Ya,Ya,3000000
+Pria,3.75,3,pp rumah,4.0,2-3 juta,Tidak,Tidak,250000
+Pria,3.68,3,kos,0.0,2-3 juta,Tidak,Ya,600000
+Wanita,3.8,7,kos,0.0,8-10 juta,Tidak,Ya,1200000
+Pria,3.5,6,kos,0.0,3-5 juta,Ya,Ya,2700000
+Pria,3.21,3,pp rumah,12.0,8-10 juta,Tidak,Ya,1200000
+Wanita,3.13,7,pp rumah,27.7,3-5 juta,Tidak,Ya,1300000
+Wanita,3.09,5,kos,0.0,8-10 juta,Ya,Ya,3000000
+Pria,3.0,3,pp rumah,17.0,>10 juta,Tidak,Tidak,1000000
+Wanita,2.96,3,pp rumah,10.0,3-5 juta,Tidak,Ya,1000000
+Wanita,3.24,7,kos,0.0,2-3 juta,Ya,Ya,800000
+Wanita,3.58,5,kos,0.0,8-10 juta,Tidak,Ya,1000000
+Pria,3.67,3,pp rumah,19.0,2-3 juta,Tidak,Ya,2000000
+Pria,3.49,6,pp rumah,8.7,5-8 juta,Ya,Tidak,2400000
+Pria,3.61,5,pp rumah,8.0,5-8 juta,Tidak,Ya,1500000
+Wanita,3.51,7,kos,0.0,2-3 juta,Tidak,Tidak,1000000
+Wanita,3.75,3,kos,0.0,>10 juta,Tidak,Tidak,1000000
+Wanita,3.33,3,pp rumah,19.0,>10 juta,Tidak,Tidak,1500000
+Pria,3.4,3,pp rumah,22.0,>10 juta,Tidak,Tidak,1500000
+Pria,3.25,3,pp rumah,5.4,3-5 juta,Tidak,Tidak,15000000
+Pria,4.0,3,pp rumah,10.0,2-3 juta,Ya,Tidak,1000000
+Pria,4.0,6,pp rumah,14.0,3-5 juta,Tidak,Ya,0
+Wanita,3.39,5,pp rumah,4.5,8-10 juta,Tidak,Tidak,2000000
+Wanita,3.73,7,pp rumah,15.0,>10 juta,Ya,Tidak,3000000
+Wanita,3.65,7,pp rumah,15.8,>10 juta,Tidak,Ya,1600000
+Pria,3.74,3,pp rumah,13.0,>10 juta,Tidak,Tidak,1000000
+Wanita,3.71,5,pp rumah,19.0,2-3 juta,Tidak,Ya,1500000
+Pria,3.52,3,pp rumah,10.0,>10 juta,Tidak,Ya,3000000
+Wanita,3.54,7,pp rumah,6.0,2-3 juta,Ya,Ya,800000
+Wanita,3.69,7,kos,0.0,3-5 juta,Tidak,Ya,2000000
+Pria,3.75,7,pp rumah,8.0,5-8 juta,Ya,Ya,2000000
+Pria,3.25,5,pp rumah,13.0,8-10 juta,Tidak,Ya,2000000
+Wanita,3.49,7,kos,0.0,8-10 juta,Tidak,Tidak,1800000
+Pria,3.04,5,pp rumah,10.0,3-5 juta,Tidak,Tidak,1000000
+Wanita,3.05,7,kos,0.0,2-3 juta,Tidak,Tidak,1000000
+Wanita,3.04,3,pp rumah,10.5,5-8 juta,Tidak,Tidak,1000000
+Wanita,2.78,3,kos,0.0,5-8 juta,Tidak,Ya,1500000
+Wanita,2.75,3,kos,0.0,>10 juta,Tidak,Ya,2000000
+Pria,2.97,3,kos,0.0,3-5 juta,Ya,Tidak,1000000
+Wanita,3.33,3,kos,0.0,2-3 juta,Tidak,Ya,100000
+Wanita,3.04,3,pp rumah,15.0,3-5 juta,Ya,Ya,2500000
+Wanita,3.51,7,pp rumah,28.0,>10 juta,Tidak,Tidak,3000000
+Pria,2.67,3,pp rumah,16.0,5-8 juta,Ya,Ya,1500000
+Wanita,3.0,3,pp rumah,12.0,5-8 juta,Tidak,Ya,30000
+Wanita,3.82,3,kos,0.0,3-5 juta,Tidak,Ya,700000
+Wanita,3.81,3,kos,0.0,2-3 juta,Ya,Ya,1000000
+Wanita,3.5,3,pp rumah,17.0,>10 juta,Tidak,Tidak,1200000
+Pria,3.98,3,kos,0.0,>10 juta,Tidak,Tidak,2000000
+Wanita,3.65,7,pp rumah,14.0,3-5 juta,Tidak,Ya,1100000
+Wanita,3.69,7,pp rumah,5.8,2-3 juta,Tidak,Ya,1000000
+Wanita,3.8,3,kos,0.0,5-8 juta,Tidak,Ya,1000000
+Pria,2.97,5,kos,0.0,3-5 juta,Tidak,Tidak,1700000
+Pria,4.0,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.73,3,kos,0.0,>10 juta,Tidak,Ya,800000
+Wanita,2.71,3,pp rumah,6.0,3-5 juta,Tidak,Ya,600000
+Wanita,3.28,3,pp rumah,8.2,2-3 juta,Tidak,Ya,400000
+Pria,3.6,7,pp rumah,15.0,3-5 juta,Tidak,Ya,1500000
+Wanita,3.63,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.57,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.57,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Pria,3.39,7,pp rumah,23.0,>10 juta,Tidak,Tidak,1000000
+Wanita,3.57,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.0,3,kos,0.0,5-8 juta,Tidak,Ya,2000000
+Pria,3.52,3,pp rumah,30.0,5-8 juta,Tidak,Ya,500000
+Pria,3.25,3,pp rumah,12.0,2-3 juta,Ya,Ya,1500000
+Wanita,3.0,3,pp rumah,12.0,5-8 juta,Tidak,Ya,1550000
+Pria,3.1,3,pp rumah,45.0,5-8 juta,Tidak,Tidak,1300000
+Pria,3.39,7,pp rumah,20.0,>10 juta,Tidak,Tidak,700000
+Wanita,3.14,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Pria,3.75,3,pp rumah,35.0,5-8 juta,Tidak,Ya,1000000
+Pria,2.4,3,pp rumah,20.0,5-8 juta,Ya,Ya,1300000
+Pria,3.49,3,pp rumah,14.0,5-8 juta,Ya,Tidak,500000
+Wanita,3.5,3,pp rumah,5.0,>10 juta,Tidak,Ya,1200000
+Pria,3.17,3,pp rumah,5.0,>10 juta,Tidak,Tidak,2000000
+Wanita,3.5,5,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.21,2,pp rumah,9.0,>10 juta,Tidak,Ya,2000000
+Wanita,2.9,3,kos,0.0,5-8 juta,Tidak,Ya,2000000
+Pria,3.65,3,pp rumah,1.0,3-5 juta,Ya,Ya,1500000
+Pria,3.75,3,pp rumah,24.0,2-3 juta,Tidak,Tidak,800000
+Wanita,3.68,3,kos,0.0,2-3 juta,Tidak,Ya,700000
+Wanita,3.55,3,pp rumah,3.5,2-3 juta,Tidak,Ya,400000
+Wanita,3.59,3,pp rumah,15.0,2-3 juta,Ya,Ya,400000
+Pria,3.65,3,kos,0.0,3-5 juta,Tidak,Tidak,500000
+Wanita,4.0,3,kos,0.0,2-3 juta,Tidak,Tidak,800000
+Wanita,3.3,3,pp rumah,6.57,2-3 juta,Tidak,Ya,600000
+Wanita,3.2,3,pp rumah,12.5,>10 juta,Tidak,Tidak,1000000
+Pria,3.4,3,pp rumah,38.0,3-5 juta,Tidak,Ya,1100000
+Pria,2.9,3,pp rumah,12.0,>10 juta,Tidak,Tidak,1000000
+Wanita,2.65,3,pp rumah,26.0,3-5 juta,Ya,Tidak,1000000
+Pria,3.33,2,pp rumah,5.5,>10 juta,Tidak,Tidak,50000
+Pria,3.2,7,pp rumah,10.0,>10 juta,Ya,Ya,4000000
+Wanita,3.1,3,pp rumah,0.0,>10 juta,Tidak,Tidak,1000000
+Wanita,3.7,3,pp rumah,6.0,3-5 juta,Tidak,Ya,1000000
+Pria,2.96,3,kos,0.0,3-5 juta,Tidak,Ya,2000000
+Wanita,3.8,3,pp rumah,11.0,2-3 juta,Tidak,Ya,0
+Pria,3.75,3,kos,0.0,3-5 juta,Tidak,Ya,1000000
+Pria,3.0,3,pp rumah,20.0,3-5 juta,Tidak,Tidak,1200000
+Pria,3.49,3,pp rumah,32.0,2-3 juta,Tidak,Ya,500000
+Wanita,3.24,3,pp rumah,5.0,5-8 juta,Tidak,Tidak,1500000
+Pria,3.18,3,pp rumah,8.3,8-10 juta,Tidak,Ya,1000000
+Pria,3.59,7,pp rumah,18.0,3-5 juta,Tidak,Ya,800000
+Wanita,3.67,7,pp rumah,33.0,2-3 juta,Tidak,Ya,1000000
+Wanita,2.9,3,pp rumah,16.0,>10 juta,Ya,Ya,2700000
+Pria,2.9,3,pp rumah,8.5,3-5 juta,Tidak,Tidak,1500000
+Pria,3.12,7,pp rumah,25.0,5-8 juta,Tidak,Tidak,1400000
+Pria,3.5,7,kos,0.0,2-3 juta,Ya,Tidak,1000000
+Wanita,2.55,5,pp rumah,16.0,>10 juta,Tidak,Tidak,2000000
+Wanita,2.91,3,pp rumah,30.0,5-8 juta,Tidak,Tidak,1500000
+Pria,2.9,3,pp rumah,30.0,>10 juta,Tidak,Ya,1500000
+Wanita,3.58,3,pp rumah,10.0,>10 juta,Tidak,Ya,2000000
+Wanita,3.67,2,pp rumah,8.2,2-3 juta,Tidak,Ya,400000
+Pria,3.2,8,pp rumah,4.0,3-5 juta,Ya,Ya,5000000
+Wanita,3.28,2,pp rumah,8.2,2-3 juta,Tidak,Ya,400000
+Wanita,3.6,3,kos,0.0,3-5 juta,Tidak,Ya,0
+Pria,3.4,7,pp rumah,10.0,>10 juta,Ya,Tidak,5000000
+Wanita,0.0,1,kos,0.0,5-8 juta,Tidak,Ya,1500000
+Pria,3.97,7,kos,0.0,>10 juta,Ya,Ya,8500000
+Wanita,3.79,7,pp rumah,13.0,8-10 juta,Tidak,Ya,5000000
+Wanita,3.84,3,pp rumah,16.0,5-8 juta,Tidak,Ya,700000
+Pria,2.34,5,kos,0.0,2-3 juta,Ya,Ya,4000000
+Wanita,3.31,3,pp rumah,15.0,8-10 juta,Tidak,Ya,1200000
+Pria,3.5,3,pp rumah,20.0,>10 juta,Tidak,Ya,1500000
+Wanita,3.5,3,pp rumah,8.3,5-8 juta,Tidak,Ya,1000000
+Pria,3.4,7,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,3.76,5,kos,0.0,5-8 juta,Tidak,Ya,1000000
+Wanita,3.7,5,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.35,5,kos,0.0,2-3 juta,Tidak,Tidak,1000000
+Wanita,2.38,3,pp rumah,24.0,2-3 juta,Tidak,Ya,700000
+Wanita,3.88,5,kos,0.0,2-3 juta,Tidak,Ya,800000
+Wanita,3.4,5,pp rumah,6.0,2-3 juta,Tidak,Tidak,400000
+Wanita,3.78,3,pp rumah,12.0,8-10 juta,Tidak,Tidak,1800000
+Wanita,2.8,3,pp rumah,7.9,3-5 juta,Tidak,Tidak,600000
+Wanita,2.4,3,pp rumah,26.0,5-8 juta,Tidak,Tidak,1000000
+Pria,3.4,3,pp rumah,23.0,3-5 juta,Tidak,Tidak,300000
+Wanita,4.0,4,pp rumah,7.0,5-8 juta,Tidak,Ya,500000
+Wanita,3.08,5,pp rumah,15.0,2-3 juta,Tidak,Ya,200000
+Wanita,2.65,3,pp rumah,2.6,3-5 juta,Tidak,Tidak,1200000
+Pria,3.6,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Pria,3.59,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.39,5,kos,21.0,3-5 juta,Tidak,Ya,800000
+Wanita,3.05,5,pp rumah,11.0,5-8 juta,Ya,Ya,1800000
+Wanita,3.42,5,kos,0.0,2-3 juta,Ya,Ya,0
+Wanita,2.96,5,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,3.0,5,kos,0.0,8-10 juta,Tidak,Ya,1000000
+Wanita,3.9,3,pp rumah,18.0,5-8 juta,Tidak,Ya,1200000
+Wanita,3.41,7,pp rumah,6.7,2-3 juta,Ya,Ya,2000000
+Pria,3.75,7,kos,0.0,2-3 juta,Tidak,Tidak,1000000
+Wanita,3.86,5,kos,0.0,5-8 juta,Ya,Ya,1500000
+Wanita,3.5,3,pp rumah,15.0,2-3 juta,Ya,Ya,750000
+Wanita,3.7,3,pp rumah,4.0,2-3 juta,Tidak,Ya,600000
+Pria,4.0,7,kos,0.0,>10 juta,Ya,Ya,3000000
+Wanita,3.77,3,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Pria,3.05,5,kos,0.0,>10 juta,Tidak,Ya,1500000
+Pria,2.77,7,kos,0.0,3-5 juta,Ya,Tidak,1000000
+Wanita,3.59,7,pp rumah,3.0,8-10 juta,Tidak,Ya,1000000
+Wanita,3.42,6,kos,0.0,8-10 juta,Tidak,Ya,1500000
+Wanita,3.6,3,pp rumah,30.0,5-8 juta,Ya,Tidak,600000
+Wanita,3.54,7,pp rumah,42.0,5-8 juta,Tidak,Tidak,600000
+Wanita,3.0,4,pp rumah,8.9,>10 juta,Tidak,Tidak,1000000
+Wanita,3.71,7,pp rumah,4.5,>10 juta,Tidak,Ya,1000000
+Wanita,4.0,3,pp rumah,7.2,5-8 juta,Tidak,Ya,500000
+Wanita,3.62,3,pp rumah,44.0,>10 juta,Tidak,Ya,1000000
+Wanita,3.4,5,pp rumah,18.0,2-3 juta,Tidak,Tidak,1050000
+Wanita,3.3,5,pp rumah,3.8,8-10 juta,Tidak,Ya,500000
+Wanita,3.9,3,kos,0.0,5-8 juta,Tidak,Tidak,2000000
+Wanita,3.01,5,pp rumah,50.0,3-5 juta,Tidak,Ya,1200000
+Pria,3.83,5,pp rumah,6.0,3-5 juta,Ya,Ya,700000
+Wanita,3.8,4,pp rumah,8.0,3-5 juta,Tidak,Tidak,600000
+Wanita,3.2,5,pp rumah,3.8,3-5 juta,Ya,Ya,1200000
+Wanita,3.2,5,pp rumah,3.8,3-5 juta,Ya,Ya,1200000
+Wanita,3.7,5,pp rumah,13.0,5-8 juta,Tidak,Ya,1000000
+Wanita,3.7,5,kos,0.0,8-10 juta,Tidak,Tidak,2000000
+Wanita,3.18,3,pp rumah,1.0,2-3 juta,Tidak,Ya,600000
+Pria,3.45,5,pp rumah,9.0,8-10 juta,Tidak,Ya,400000
+Pria,3.09,7,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.6,5,pp rumah,17.0,8-10 juta,Tidak,Ya,1200000
+Wanita,3.45,3,kos,0.0,3-5 juta,Tidak,Ya,1000000
+Pria,2.41,5,kos,0.0,2-3 juta,Tidak,Ya,700000
+Wanita,2.5,7,kos,0.0,5-8 juta,Tidak,Tidak,1600000
+Pria,3.12,7,pp rumah,27.0,5-8 juta,Tidak,Ya,800000
+Wanita,3.56,9,pp rumah,8.0,5-8 juta,Ya,Tidak,1600000
+Wanita,2.84,3,pp rumah,2.0,>10 juta,Tidak,Tidak,2300000
+Wanita,3.48,5,kos,0.0,>10 juta,Tidak,Ya,2000000
+Wanita,2.7,7,pp rumah,7.1,3-5 juta,Tidak,Ya,400000
+Wanita,3.5,1,pp rumah,1.0,>10 juta,Ya,Tidak,2500000
+Pria,3.04,11,pp rumah,17.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.65,3,pp rumah,15.0,8-10 juta,Tidak,Tidak,1400000
+Wanita,2.99,5,pp rumah,14.3,5-8 juta,Tidak,Ya,2000000
+Wanita,3.8,3,pp rumah,6.9,2-3 juta,Tidak,Ya,1000000
+Pria,3.0,3,pp rumah,1.2,2-3 juta,Tidak,Tidak,600000
+Wanita,2.89,3,kos,0.0,5-8 juta,Tidak,Ya,1000000
+Wanita,3.83,3,pp rumah,18.0,8-10 juta,Tidak,Ya,1000000
+Pria,3.23,3,pp rumah,25.0,2-3 juta,Tidak,Tidak,600000
+Wanita,3.58,8,pp rumah,18.0,2-3 juta,Ya,Ya,4000000
+Pria,3.15,3,kos,0.0,8-10 juta,Tidak,Ya,1500000
+Pria,3.5,3,pp rumah,20.0,3-5 juta,Tidak,Ya,650000
+Wanita,3.45,3,kos,0.0,>10 juta,Tidak,Tidak,3000000
+Pria,3.8,3,pp rumah,17.0,2-3 juta,Ya,Ya,1000000
+Pria,2.82,7,pp rumah,3.0,5-8 juta,Ya,Ya,500000
+Wanita,3.09,3,pp rumah,18.0,3-5 juta,Tidak,Tidak,800000
+Wanita,3.09,3,pp rumah,18.0,3-5 juta,Tidak,Tidak,800000
+Pria,3.35,3,kos,0.0,3-5 juta,Tidak,Ya,1200000
+Wanita,3.63,3,kos,2.0,2-3 juta,Ya,Tidak,2000000
+Wanita,3.17,7,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,2.91,3,pp rumah,30.0,5-8 juta,Tidak,Tidak,1200000
+Pria,3.4,3,kos,0.0,2-3 juta,Tidak,Ya,1500000
+Wanita,3.61,4,kos,0.0,2-3 juta,Ya,Ya,0
+Wanita,3.14,3,kos,0.0,3-5 juta,Tidak,Tidak,1500000
+Pria,2.53,5,pp rumah,18.0,3-5 juta,Ya,Ya,1000000
+Pria,3.3,5,kos,0.0,8-10 juta,Tidak,Ya,5000000
+Pria,3.38,5,kos,0.0,5-8 juta,Tidak,Ya,1500000
+Wanita,0.0,1,kos,40.0,5-8 juta,Tidak,Tidak,1000000
+Wanita,3.31,5,pp rumah,9.8,5-8 juta,Ya,Ya,600000
+Wanita,2.75,5,kos,0.0,5-8 juta,Ya,Ya,1800000
+Pria,3.99,8,kos,0.0,2-3 juta,Tidak,Ya,2500000
+Wanita,3.5,5,kos,0.0,3-5 juta,Tidak,Tidak,1000000
+Wanita,3.54,7,kos,0.0,>10 juta,Ya,Tidak,4500000
+Wanita,3.3,7,pp rumah,39.2,3-5 juta,Ya,Ya,2000000
+Wanita,3.09,3,pp rumah,18.0,3-5 juta,Tidak,Tidak,800000
+Pria,3.99,3,pp rumah,30.0,>10 juta,Tidak,Tidak,1000000
+Wanita,3.32,3,kos,0.0,3-5 juta,Tidak,Tidak,1200000
+Wanita,385.0,3,kos,0.0,>10 juta,Tidak,Ya,2500000
+Wanita,3.85,3,pp rumah,10.0,2-3 juta,Ya,Tidak,4000000
+Wanita,3.8,7,kos,0.0,5-8 juta,Tidak,Ya,1200000
+Wanita,3.72,4,pp rumah,13.0,2-3 juta,Tidak,Tidak,1000000
+Wanita,3.8,3,kos,0.0,3-5 juta,Tidak,Ya,1000000
+Wanita,3.27,7,kos,0.0,2-3 juta,Ya,Ya,1500000
+Wanita,2.45,3,pp rumah,12.0,3-5 juta,Ya,Tidak,650000
+Wanita,2.64,5,pp rumah,6.0,2-3 juta,Tidak,Tidak,500000
+Wanita,3.48,3,kos,1.0,3-5 juta,Tidak,Tidak,1000000
+Wanita,3.8,3,kos,0.0,5-8 juta,Ya,Ya,950000
+Wanita,3.65,3,kos,0.0,2-3 juta,Tidak,Tidak,100000
+Wanita,3.25,3,kos,0.0,5-8 juta,Tidak,Ya,1000000
+Wanita,3.45,3,pp rumah,5.0,3-5 juta,Tidak,Ya,1000000
+Wanita,2.57,3,kos,0.0,2-3 juta,Tidak,Ya,700000
+Wanita,3.9,4,kos,6.3,2-3 juta,Tidak,Ya,2000000
+Wanita,2.95,3,pp rumah,5.79,3-5 juta,Tidak,Ya,1500000
+Wanita,3.3,3,kos,0.0,5-8 juta,Tidak,Ya,500000
+Wanita,3.55,3,pp rumah,6.15,3-5 juta,Tidak,Ya,700000
+Pria,3.0,3,pp rumah,23.0,3-5 juta,Tidak,Tidak,200000
+Wanita,2.8,3,kos,0.0,5-8 juta,Tidak,Ya,1000000
+Wanita,3.23,3,kos,0.0,5-8 juta,Tidak,Ya,1200000
+Pria,3.68,3,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,2.0,3,kos,2.05,2-3 juta,Ya,Ya,400000
+Pria,3.55,3,pp rumah,10.0,3-5 juta,Tidak,Ya,750000
+Wanita,3.92,5,kos,0.0,>10 juta,Tidak,Ya,15000000
+Pria,3.5,3,kos,0.0,>10 juta,Tidak,Ya,1000000
+Wanita,3.53,3,pp rumah,30.0,>10 juta,Tidak,Ya,5000000
+Wanita,3.2,1,pp rumah,7.0,3-5 juta,Ya,Ya,1000000
+Pria,3.6,3,pp rumah,30.0,2-3 juta,Tidak,Ya,1500000
+Pria,3.3,4,kos,0.0,>10 juta,Tidak,Ya,2000000
+Wanita,3.6,5,pp rumah,3.68,>10 juta,Ya,Ya,1500000
+Pria,4.0,5,kos,0.0,2-3 juta,Ya,Ya,500000
+Pria,2.85,3,pp rumah,2.8,3-5 juta,Tidak,Ya,1200000
+Pria,2.85,3,pp rumah,2.8,3-5 juta,Tidak,Ya,1200000
+Wanita,3.68,2,pp rumah,2.4,8-10 juta,Tidak,Ya,320000
+Pria,3.35,3,kos,0.0,2-3 juta,Tidak,Ya,800000
+Wanita,3.58,5,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,3.48,3,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Pria,3.8,5,pp rumah,4.0,3-5 juta,Tidak,Ya,500000
+Wanita,3.5,3,pp rumah,1.0,5-8 juta,Tidak,Ya,800000
+Wanita,2.99,5,kos,0.0,2-3 juta,Tidak,Ya,1500000
+Wanita,3.28,3,kos,0.0,2-3 juta,Tidak,Ya,1500000
+Wanita,3.0,5,pp rumah,5.0,2-3 juta,Tidak,Ya,400000
+Wanita,3.6,3,pp rumah,50.0,>10 juta,Tidak,Tidak,900000
+Pria,3.6,7,pp rumah,0.0,2-3 juta,Ya,Ya,1000000
+Wanita,3.32,3,kos,0.0,2-3 juta,Tidak,Ya,600000
+Wanita,3.91,4,kos,0.0,3-5 juta,Tidak,Ya,1700000
+Pria,3.28,5,pp rumah,13.0,2-3 juta,Tidak,Ya,400000
+Wanita,3.78,5,pp rumah,20.0,2-3 juta,Tidak,Ya,900000
+Pria,3.86,3,kos,0.0,3-5 juta,Tidak,Ya,1000000
+Pria,3.27,3,kos,25.0,2-3 juta,Ya,Ya,500000
+Wanita,3.5,3,pp rumah,19.0,>10 juta,Tidak,Ya,5000000
+Pria,3.45,1,kos,0.0,3-5 juta,Tidak,Tidak,1500000
+Pria,3.16,3,pp rumah,5.0,5-8 juta,Tidak,Tidak,1400000
+Wanita,3.61,3,pp rumah,14.0,3-5 juta,Tidak,Tidak,500000
+Wanita,3.49,3,pp rumah,15.0,3-5 juta,Tidak,Ya,300000
+Wanita,3.52,7,pp rumah,30.0,5-8 juta,Ya,Ya,2000000
+Wanita,3.75,3,pp rumah,7.0,5-8 juta,Tidak,Ya,1000000
+Wanita,3.9,3,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,3.04,5,kos,0.0,3-5 juta,Tidak,Ya,1000000
+Pria,3.5,3,pp rumah,17.4,8-10 juta,Tidak,Ya,800000
+Wanita,3.25,5,kos,0.0,3-5 juta,Tidak,Ya,1000000
+Wanita,3.05,3,pp rumah,7.0,>10 juta,Tidak,Ya,800000
+Wanita,3.68,3,pp rumah,12.3,2-3 juta,Tidak,Ya,800000
+Wanita,3.62,3,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,2.98,7,pp rumah,11.0,2-3 juta,Ya,Ya,1000000
+Wanita,3.56,5,kos,0.0,2-3 juta,Tidak,Tidak,1000000
+Wanita,3.45,4,kos,0.0,8-10 juta,Tidak,Tidak,1200000
+Wanita,3.65,3,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,3.13,3,kos,0.0,5-8 juta,Tidak,Tidak,2000000
+Wanita,3.3,3,pp rumah,13.1,8-10 juta,Tidak,Tidak,1000000
+Wanita,2.8,3,kos,0.0,>10 juta,Tidak,Ya,1400000
+Pria,3.99,8,kos,0.0,2-3 juta,Tidak,Ya,2500000
+Wanita,3.48,3,kos,0.0,3-5 juta,Tidak,Ya,1200000
+Wanita,3.56,3,kos,0.0,3-5 juta,Ya,Ya,1000000
+Pria,3.73,3,pp rumah,25.0,3-5 juta,Tidak,Tidak,1000000
+Wanita,3.3,3,kos,0.0,2-3 juta,Tidak,Ya,600000
+Wanita,3.1,5,pp rumah,6.0,3-5 juta,Tidak,Ya,1000000
+Wanita,3.0,3,kos,0.0,2-3 juta,Tidak,Ya,500000
+Wanita,3.52,5,kos,0.0,5-8 juta,Tidak,Tidak,1000000
+Pria,3.0,5,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.67,8,kos,0.0,5-8 juta,Tidak,Ya,1500000
+Wanita,3.7,3,pp rumah,18.0,3-5 juta,Tidak,Ya,1000000
+Wanita,2.71,3,pp rumah,28.0,2-3 juta,Ya,Ya,1500000
+Pria,3.04,3,pp rumah,22.0,2-3 juta,Ya,Ya,800000
+Pria,2.76,3,pp rumah,21.0,3-5 juta,Tidak,Ya,50000
+Pria,2.4,3,pp rumah,9.0,3-5 juta,Tidak,Ya,500000
+Wanita,3.23,7,pp rumah,34.0,2-3 juta,Ya,Ya,2000000
+Pria,2.73,3,pp rumah,17.0,5-8 juta,Tidak,Tidak,400000
+Pria,2.73,3,pp rumah,15.0,>10 juta,Tidak,Ya,1000
+Wanita,3.2,7,pp rumah,12.0,2-3 juta,Tidak,Ya,500000
+Wanita,2.7,5,kos,0.0,5-8 juta,Ya,Ya,2000000
+Pria,2.4,3,pp rumah,10.0,8-10 juta,Tidak,Ya,500000
+Wanita,2.86,7,kos,0.0,>10 juta,Ya,Ya,4000000
+Wanita,2.99,7,pp rumah,12.0,2-3 juta,Tidak,Tidak,800000
+Wanita,3.4,3,pp rumah,15.0,5-8 juta,Tidak,Ya,1000000
+Wanita,3.05,3,pp rumah,13.0,2-3 juta,Tidak,Ya,300000
+Wanita,3.39,7,pp rumah,5.0,3-5 juta,Tidak,Ya,1000000
+Wanita,3.8,2,pp rumah,9.8,2-3 juta,Ya,Tidak,700000
+Pria,3.34,7,kos,0.0,3-5 juta,Ya,Ya,1200000
+Wanita,2.79,7,pp rumah,20.0,>10 juta,Ya,Ya,1900000
+Wanita,2.83,3,pp rumah,11.0,5-8 juta,Tidak,Tidak,500000
+Wanita,3.0,3,pp rumah,1.0,8-10 juta,Tidak,Ya,3000000
+Wanita,3.27,3,kos,0.0,2-3 juta,Tidak,Ya,1500000
+Pria,3.45,7,pp rumah,40.0,8-10 juta,Tidak,Ya,750000
+Wanita,3.91,3,pp rumah,6.0,2-3 juta,Tidak,Tidak,800000
+Wanita,3.3,3,pp rumah,1.5,2-3 juta,Tidak,Ya,1500000
+Pria,2.32,7,pp rumah,2.0,2-3 juta,Tidak,Ya,100000
+Wanita,2.68,7,pp rumah,9.1,2-3 juta,Tidak,Ya,1000000
+Wanita,3.36,3,kos,0.0,3-5 juta,Tidak,Tidak,1500000
+Wanita,3.88,3,kos,0.0,3-5 juta,Tidak,Tidak,1000000
+Wanita,3.8,2,pp rumah,2.2,8-10 juta,Tidak,Tidak,300000
+Wanita,3.3,3,pp rumah,1.9,3-5 juta,Tidak,Tidak,1500000
+Wanita,3.5,3,pp rumah,7.8,5-8 juta,Tidak,Ya,1800000
+Wanita,3.5,3,pp rumah,7.8,5-8 juta,Tidak,Ya,1800000
+Wanita,3.45,3,pp rumah,6.0,5-8 juta,Tidak,Tidak,700000
+Wanita,3.79,3,pp rumah,16.0,8-10 juta,Tidak,Ya,3000000
+Wanita,3.54,3,pp rumah,12.0,5-8 juta,Ya,Ya,1500000
+Wanita,3.71,4,kos,0.0,2-3 juta,Tidak,Tidak,4200000
+Wanita,3.5,3,pp rumah,2.0,3-5 juta,Tidak,Ya,400000
+Wanita,3.64,5,kos,0.0,>10 juta,Tidak,Ya,3250000
+Wanita,3.62,3,pp rumah,22.2,2-3 juta,Tidak,Ya,1000000
+Wanita,3.56,4,kos,0.0,>10 juta,Tidak,Tidak,2000000
+Wanita,3.64,3,pp rumah,26.0,5-8 juta,Tidak,Ya,1000000
+Wanita,2.6,3,pp rumah,25.0,3-5 juta,Ya,Ya,1000000
+Pria,2.8,5,pp rumah,15.0,2-3 juta,Tidak,Tidak,500000
+Pria,3.53,3,kos,0.0,8-10 juta,Tidak,Ya,2000000
+Wanita,3.22,3,pp rumah,4.7,3-5 juta,Tidak,Tidak,700000
+Wanita,3.5,3,kos,0.0,3-5 juta,Tidak,Ya,800000
+Wanita,3.3,3,pp rumah,1.5,2-3 juta,Tidak,Ya,1500000
+Wanita,3.7,3,pp rumah,3.0,5-8 juta,Tidak,Ya,150000
+Wanita,3.85,3,pp rumah,6.0,3-5 juta,Tidak,Ya,600000
+Wanita,3.27,3,kos,0.0,2-3 juta,Tidak,Tidak,1200000
+Wanita,3.3,5,kos,0.0,2-3 juta,Tidak,Ya,1000000
+Wanita,3.51,5,kos,0.0,5-8 juta,Ya,Ya,1500000
+Wanita,2.57,3,kos,0.0,>10 juta,Tidak,Tidak,2000000
+Wanita,3.45,8,kos,0.0,3-5 juta,Tidak,Ya,1500000
+Wanita,3.2,3,pp rumah,1.5,3-5 juta,Tidak,Tidak,800000
+Wanita,3.35,4,pp rumah,10.0,3-5 juta,Tidak,Ya,1100000
+Wanita,3.74,4,pp rumah,25.0,3-5 juta,Tidak,Ya,600000
+Wanita,3.22,5,pp rumah,12.8,5-8 juta,Tidak,Ya,400000
+Wanita,3.33,7,kos,0.0,2-3 juta,Ya,Ya,1000000
+Wanita,2.65,3,pp rumah,15.0,3-5 juta,Tidak,Ya,400000
+Wanita,3.1,3,pp rumah,35.4,2-3 juta,Tidak,Ya,1500000
+Pria,3.63,2,pp rumah,18.0,2-3 juta,Ya,Tidak,5000000
+Wanita,3.63,3,pp rumah,7.0,2-3 juta,Tidak,Tidak,500000
+Wanita,3.5,3,kos,1.0,2-3 juta,Tidak,Ya,700000
+Pria,3.16,3,pp rumah,8.7,2-3 juta,Tidak,Ya,3800000
+Wanita,3.5,3,pp rumah,18.0,3-5 juta,Ya,Tidak,800000
+Pria,1.2,3,pp rumah,19.0,>10 juta,Tidak,Tidak,600000
+Pria,3.53,2,kos,0.0,5-8 juta,Tidak,Tidak,2500000
+Pria,3.5,4,pp rumah,500.0,2-3 juta,Ya,Ya,1500000
+Wanita,4.0,4,kos,0.0,5-8 juta,Tidak,Tidak,4000000
+Wanita,3.32,3,kos,0.0,2-3 juta,Tidak,Ya,1500000
